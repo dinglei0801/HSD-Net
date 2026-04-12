@@ -138,18 +138,6 @@ python test.py --dataset mini --shot 1 --save-path ./save/mini-stage3-1s
 python test.py --dataset mini --shot 5 --save-path ./save/mini-stage3-5s
 ```
 
----
-
-## Results
-
-| Dataset | 1-shot | 5-shot |
-|---|---|---|
-| miniImageNet | 58.88% | 76.23% |
-| CIFAR-FS | 70.16% | 83.89% |
-| tieredImageNet | 47.01% | 65.73% |
-
----
-
 ## Citation
 
 If you find this work useful in your research, please cite:
@@ -165,13 +153,8 @@ If you find this work useful in your research, please cite:
 }
 ```
 
----
 
-## Acknowledgement
 
-This research is partially supported by The National Social Science Fund of China No. 18ZDA200, Introducing Talents of Studying Overseas Fund of Hebei No. C20230339, and Special Science and Technology Fund of Hebei Normal University No. L2023T03.
-
----
 
 ## License
 
